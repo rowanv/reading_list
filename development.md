@@ -5,6 +5,7 @@
   - Slatkin's [Effective Python](http://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
   - Phillips' Python 3 Object Oriented Programming
   - Crockford's JavaScript: The Good Parts
+  - Hourieh's article on [Python Debugging Techniques](https://gimmebar-assets.s3.amazonaws.com/4fe38b76be0a5.html)
 
 
 ## Web Design / JS
